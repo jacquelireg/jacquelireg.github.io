@@ -7,7 +7,7 @@ float px;
 float py;
 float easing = 0.05;
 
-function setup(){
+void setup(){
   size(1000,1000);
   background(255);
   smooth();
@@ -15,7 +15,7 @@ function setup(){
   strokeWeight(20);
 }
 
-function draw() {
+void draw() {
   if(keyPressed) {
     clear_print();
 }
@@ -54,7 +54,7 @@ void newkeyChoice() {
     //erase
     stroke(255);
   } else if (key == '7') {
-    //just monika :)
+    //just monika
   b = loadImage("monika.jpg");
   image(b, mouseX, mouseY);
   strokeWeight(0);
