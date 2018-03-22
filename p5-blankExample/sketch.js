@@ -1,4 +1,5 @@
 char currentkey= '1';
+PImage b;
 
 float x;
 float y;
