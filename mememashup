@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Meme Mashup | Jacqueline Regalado</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="ASMR.css">
+    <style>
+    img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}</style>
+</head>
+<body>
+	
+    <ul>
+  <li><a href="index.html">Jacqueline Regalado</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Projects</a>
+    <div class="dropdown-content">
+      <a href="ASMRForPeopleWhoDon'tReallyLikeASMR.html">ASMR For People Who Don't <br> Like ASMR</a>
+      <a href="booker.html">Booker, Catch!</a>
+      <a href="glitch.html">YouTube Isn't the Same</a>
+      <a href="sugar.html">Sugar</a>
+      <a href="interview.html">Interviewing a Street Fighter<br> Fanatic</a>
+      <a href="jackolantern.html">Jack-o-Lantern</a>
+      <a href="feeling.html">Feeling out of It</a>
+      <a href="simulatedenvironment.html">Simulated Environment</a>
+      <a href="mememashup.html">Meme Mashup</a>
+      <li><a href="contact.html">Contact</a></li>
+    </div>
+  </li>
+</ul>
+<br>
+    <img src="https://i.imgur.com/dQ3N4pz.jpg">
+<div align="center">
+    <h3 style="color: #F7F4EA">Meme Mashup</h3>
+    <h3 style="color: #F7F4EA"><i>September 2017 | Digital Image | Photoshop</i></h3>
+    <p style="color: #F7F4EA">This is a combination of Donald Trump and the Trash Doves meme. This mashup has a double meaning, the first one being that Donald Trump has a bird brain and the second being that he's an alt-right white supremacist because while the Trash Doves meme started out as an innocent joke on Facebook, it was eventually passed around as a symbol of alt-right and nazi hate in other websites such as 4chan.
+    </div>
+    
+</body>
+</html>
