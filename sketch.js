@@ -57,6 +57,3 @@ function mouseDragged() {
   shapes.push(new Shape(mouseX, mouseY, random(minRadius, maxRadius)));
 }
 
-function keyPressed() {
-if (keyCode == DELETE || keyCode == BACKSPACE) background(255);
-}
