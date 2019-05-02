@@ -39,7 +39,7 @@ var density = 2;
 var strokeColor;
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(windowWidth, windowHeight);
   noFill();
   strokeColor = color(0, 10);
 }
