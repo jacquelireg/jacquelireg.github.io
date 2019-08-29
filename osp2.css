@@ -1,0 +1,27 @@
+body {
+	background-image: linear-gradient(to right, #663552, #e07a61);
+	background-color: #663552;
+	font-family: 'Manjari', sans-serif;
+	color: white;
+	font-size: 20px;
+}
+
+div {
+	text-align: center;
+}
+
+.title {
+	font-size: 36px;
+	font-weight: bold;
+	padding: 20px;
+}
+
+.art {
+	margin: 10px;
+	padding: 10px;
+}
+
+.inner {
+	margin: 5px;
+}
+
