@@ -127,6 +127,6 @@ li a:hover {
   text-align: center;
 }
 
-.col_caption small {
-	text-align: left;
+.col_caption {
+	text-align: center;
 }
