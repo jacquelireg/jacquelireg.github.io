@@ -52,7 +52,7 @@ h2 {
 
 .col {
 	display: flex;
-	color: white;
+	color: black;
 	-webkit-transition: all 1s ease;
    	-moz-transition: all 1s ease;
     	-o-transition: all 1s ease;
