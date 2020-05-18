@@ -126,3 +126,7 @@ li a:hover {
   font-size: 24px;
   text-align: center;
 }
+
+.col_caption small {
+	text-align: left;
+}
