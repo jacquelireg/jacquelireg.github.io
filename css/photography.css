@@ -44,10 +44,6 @@ img {
   transition: all 1s ease;
 }
 
-img:hover {
-  transform: scale(1.1);
-}
-
 .footer #button{
 	width:35px;
 	height:35px;
