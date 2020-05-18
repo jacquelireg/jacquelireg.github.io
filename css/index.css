@@ -49,6 +49,7 @@ h2 {
 
 
 .col {
+	font-family: 'Comfortaa', cursive;
 	display: flex;
 	color: black;
 	-webkit-transition: all 1s ease;
