@@ -1,8 +1,7 @@
 body {
-	background-image: linear-gradient(to right, #663552, #A47FCC);
-	background-color: #663552;
-	font-family: 'Staatliches', cursive;
-	color: white;
+	background-color: #e6e6ff;
+	font-family: 'Comfortaa', cursive;
+	color: black;
 }
 
 li {
@@ -12,13 +11,13 @@ li {
 li a {
   	padding: 10px;
   	font-size: 24px;
-  	color: white;
+  	color: black;
   	text-decoration: none;
   	border: dashed transparent;
 }
 
 li a:hover {
-	border: dashed white;
+	border: dashed #5c374c;
 }
 
 .nav ul {
@@ -132,5 +131,5 @@ img:hover {
 }
 
 .active-page {
-	border: dashed white;
+	border: dashed #5c374c;
 }
