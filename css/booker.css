@@ -122,7 +122,6 @@ li a:hover {
 .col {
   flex: 1;
   padding: 10px;
-  margin: 10px;
   font-size: 18px;
   text-align: center;
 }
