@@ -1,7 +1,7 @@
 body {
 	background-color: #e6e6ff;
 	font-family: 'Dosis', sans-serif;
-	color: white;
+	color: black;
 }
 
 li {
@@ -11,13 +11,13 @@ li {
 li a {
   	padding: 10px;
   	font-size: 24px;
-  	color: white;
+  	color: black;
   	text-decoration: none;
   	border: dashed transparent;
 }
 
 li a:hover {
-	border: dashed white;
+	border: dashed black;
 }
 
 h1 {
